@@ -2,7 +2,7 @@
 
 This is the code for the paper *AlignKT: Explicitly Modeling Knowledge State for Knowledge Tracing with Ideal State Alignment*. Our paper see here(The link for the paper will be updated here).
 
-![model_framework](A:\pStudy\AlignKT\model_framework.png)
+![model_framework](model_framework.png)
 
 ## Requirements
 
