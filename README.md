@@ -1,6 +1,6 @@
 # AlignKT: Explicitly Modeling Knowledge State for Knowledge Tracing with Ideal State Alignment
 
-This is the code for the paper *AlignKT: Explicitly Modeling Knowledge State for Knowledge Tracing with Ideal State Alignment*. See our paper here(The link for the paper will be updated here).
+This is the code for the paper *AlignKT: Explicitly Modeling Knowledge State for Knowledge Tracing with Ideal State Alignment*. See our paper here(the link will be updated here).
 
 ![model_framework](model_framework.png)
 
